@@ -1,0 +1,56 @@
+ /* .contenedor {
+  width: 10%;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  background-color: antiquewhite;
+  float: left;
+  margin-left: 10em;
+  margin-top: 5rem;
+} */
+
+/* .contenedor {
+  width: fit-content;
+  padding-left: 1em;
+  padding-right: 1em;
+  height: 10em;
+  background-color: blueviolet;
+  color: white;
+  border-radius: 10px;
+}  */
+
+    /* .contenedor{
+        background-color: aqua;
+        display: flex;
+        flex-direction: column-reverse;
+        width: fit-content;
+        justify-content: center;
+        width: 20%;   
+
+    } */
+
+
+    .cardName{
+        color:blueviolet;
+        
+    }
+
+    .cardSpecies{
+        color:blue;
+        
+    }
+
+    .cardGender{
+        color:red;
+
+    }
+
+    .cardImage{
+        border-radius: 50%;
+    }
+
+    .button{
+        cursor: pointer;
+    }
+
+
